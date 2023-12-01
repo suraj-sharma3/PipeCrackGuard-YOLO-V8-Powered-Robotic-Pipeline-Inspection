@@ -1,2 +1,6 @@
 # PipeCrackGuard-YOLO-V8-Powered-Robotic-Pipeline-Inspection
 This project integrates a YOLO V8 machine learning model trained on a custom dataset for detecting cracks in pipes with a Raspberry Pi microcontroller having a camera and a speaker mounted on a robot for detecting cracks in pipes at factories, ships, etc and informing the workers.
+
+Detailed Description : 
+
+Introducing an innovative solution for pipeline maintenance and inspection: a cutting-edge YOLO V8 machine learning model designed to identify cracks in pipes. This project integrates this powerful model onto a Raspberry Pi microcontroller, seamlessly embedded within a robotic system. The robot, equipped with a high-resolution camera module, autonomously navigates through factory environments, capturing images of pipelines. Leveraging the YOLO model's precision, the system swiftly analyzes these images in real-time. Upon detecting any signs of a crack, the robot instantaneously halts its movement and triggers a customized audio alert via an integrated text-to-speech library. This system not only detects pipeline cracks but also ensures prompt notification, enabling swift maintenance actions to uphold operational integrity and safety standards within industrial settings.
