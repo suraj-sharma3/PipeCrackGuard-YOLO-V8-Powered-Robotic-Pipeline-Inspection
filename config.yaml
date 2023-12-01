@@ -1,0 +1,10 @@
+path: C:\Users\OMOLP094\Desktop\Research Projects\Laksh _ Vardaan - Pipe Crack Detection Project\crack_detector_dataset\crack_detector_dataset # dataset root dir
+train: images\train # train images relative to path
+val: images\train # val images relative to path
+
+# Classes
+names:
+  0: crack
+
+
+
